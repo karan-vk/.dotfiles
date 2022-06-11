@@ -1,6 +1,6 @@
 [user]
-	name = Jake Wiesler
-	email = jakewiesler@gmail.com
+	name = Karan V
+	email = karanvknarayanan@gmail.com
 [core]
 	excludesfile = ~/.gitignore_global
     editor = nvim
